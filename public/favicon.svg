@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Red Cross -->
+  <path d="M46 8h8v8h8v8h-8v8h-8v-8h-8v-8h8z" fill="#FF2E2E" />
+  <!-- Purple Diamond left solid part -->
+  <path d="M50 90L18 55L42 35Z" fill="#694CC1" stroke="#694CC1" stroke-width="6" stroke-linejoin="round" />
+  <!-- Purple Diamond right outline part -->
+  <path d="M50 90L82 55L58 35" stroke="#694CC1" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" />
+  <!-- People: Left head -->
+  <circle cx="41.5" cy="49" r="3.5" fill="#694CC1" />
+  <!-- People: Right head -->
+  <circle cx="58.5" cy="49" r="3.5" fill="#694CC1" />
+  <!-- People: Center head -->
+  <circle cx="50" cy="45" r="4.5" fill="#694CC1" />
+  <!-- People: Left body -->
+  <path d="M36 58c0-3 3-4 6-4" stroke="#694CC1" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <!-- People: Right body -->
+  <path d="M58 54c3 0 6 1 6 4" stroke="#694CC1" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <!-- People: Center body -->
+  <path d="M44 60c0-4.5 3-5.5 6-5.5s6 1 6 5.5H44z" fill="#694CC1" />
+  <!-- Bottom curve -->
+  <path d="M40 64c5 1.5 15 1.5 20 0" stroke="#694CC1" stroke-width="3" stroke-linecap="round" fill="none" />
+</svg>
