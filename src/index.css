@@ -1902,3 +1902,7 @@ a {
   .solution-card { padding: 1.25rem; min-height: 0; }
   .mobile-links { margin-top: 1rem; }
 }
+
+/* Theme toggle icons are chosen by CSS (not by React state) so the pre-rendered page and the browser render the same markup. */
+:root:not([data-theme="light"]) .icon-moon { display: none; }
+:root[data-theme="light"] .icon-sun { display: none; }
