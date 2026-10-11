@@ -9,7 +9,7 @@ MedToken links hospitals, clinics, laboratories, scan centres and pharmacies tog
 - Clinic Management Software (CMS): appointments, patient records, token queues and day-to-day clinic operations
 - Laboratory Information Management System (LIMS): samples, testing workflows, laboratory records and reporting
 - Radiology Management System (RMS): X-ray, CT, MRI and ultrasound worklists, scan images, radiology reports, critical-result alerts and sharing reports with patients
-- Pharmacy Management Software (PMS): inventory, prescriptions, dispensing and pharmacy billing
+- Pharmacy Management Software (PMS): GST-ready billing with barcode scanning, batch-wise stock with low-stock alerts, purchase orders and supplier payments, drug-safety and allergy checks, refill reminders and a controlled-drug register
 - MedToken patient app: find hospitals, clinics, labs and scan centres, book appointments or tokens, and see prescriptions, lab reports and scan reports shared by facilities
 - Token generation and unified queue management for app bookings and walk-ins
 

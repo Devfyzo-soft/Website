@@ -329,7 +329,7 @@ export default function App() {
               </div>
               <div>
                 <h3>Pharmacy Management Software (PMS)</h3>
-                <p>Control inventory, prescriptions, dispensing and pharmacy billing with greater visibility.</p>
+                <p>Run a pharmacy end to end: GST-ready billing with barcode scanning, batch-wise stock with low-stock alerts, purchase orders and supplier payments, drug-safety and allergy checks, refill reminders and a controlled-drug register.</p>
               </div>
             </article>
 
